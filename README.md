@@ -7,6 +7,7 @@
 
 ![Egger GitHub stats](https://github-readme-stats.vercel.app/api?username=juninhoegger&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juninhoegger)](https://github.com/juninhoegger/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br>
